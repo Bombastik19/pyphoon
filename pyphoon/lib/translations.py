@@ -40,4 +40,5 @@ LITS = {
     'nn': ["Nymåne", "Første kvarter", "Fullmåne", "Siste kvarter", "Den nordlege halvkula", "Den sørlege halvkula"],
     'cy': ["Lleuad Newydd", "Chwarter Cyntaf", "Lleuad Llawn", "Chwarter Olaf", "Hemisffer y Gogledd", "Hemisffer y De"],
     'tr': ["Yeni Ay", "İlk Dördün", "Dolunay", "Son Dördün", "Kuzey yarımküre", "Güney yarımküre"],
+    'am': ["Նորալուսին", "Առաջին քառորդ", "Լիալուսին", "Վերջին քառորդ", "Հյուսիսային կիսագունդ", "Հարավային կիսագունդ"],
 }
